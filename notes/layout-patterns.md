@@ -41,10 +41,16 @@ flex: `grow` `shrink` `baseWidth`;
 }
 ```
 
-`flex: 0 1 150px;`:
+```
+flex: 0 1 150px;
+```
+
 ![Screenshot from 2022-04-30 10-32-48](https://user-images.githubusercontent.com/73107656/166100184-763a857d-4125-44e4-8b56-ad81a80b6018.png)
 
-`flex: 1 1 150px;`:
+```
+flex: 1 1 150px;
+```
+
 ![Screenshot from 2022-04-30 10-33-39](https://user-images.githubusercontent.com/73107656/166100210-f010ca0f-0aad-465d-90a0-3959f3326960.png)
 
 ---
@@ -146,11 +152,11 @@ An and place child elements wherever we need them to be:
 }
 ```
 
-**auto-fit**:
-![Screenshot from 2022-04-30 10-39-26](https://user-images.githubusercontent.com/73107656/166100393-bc0c0a5f-5e91-4e1b-a7e8-a2824ea01401.png)
+- **auto-fit**:
+  ![Screenshot from 2022-04-30 10-39-26](https://user-images.githubusercontent.com/73107656/166100393-bc0c0a5f-5e91-4e1b-a7e8-a2824ea01401.png)
 
-**auto-fill**:
-![Screenshot from 2022-04-30 10-38-13](https://user-images.githubusercontent.com/73107656/166100348-06fd8c1b-b09f-40ff-9d6f-8425b7a6f726.png)
+- **auto-fill**:
+  ![Screenshot from 2022-04-30 10-38-13](https://user-images.githubusercontent.com/73107656/166100348-06fd8c1b-b09f-40ff-9d6f-8425b7a6f726.png)
 
 ---
 
