@@ -152,11 +152,13 @@ An and place child elements wherever we need them to be:
 }
 ```
 
-- **auto-fit**:
-  ![Screenshot from 2022-04-30 10-39-26](https://user-images.githubusercontent.com/73107656/166100393-bc0c0a5f-5e91-4e1b-a7e8-a2824ea01401.png)
+> **auto-fit**:
 
-- **auto-fill**:
-  ![Screenshot from 2022-04-30 10-38-13](https://user-images.githubusercontent.com/73107656/166100348-06fd8c1b-b09f-40ff-9d6f-8425b7a6f726.png)
+![Screenshot from 2022-04-30 10-39-26](https://user-images.githubusercontent.com/73107656/166100393-bc0c0a5f-5e91-4e1b-a7e8-a2824ea01401.png)
+
+> **auto-fill**:
+
+![Screenshot from 2022-04-30 10-38-13](https://user-images.githubusercontent.com/73107656/166100348-06fd8c1b-b09f-40ff-9d6f-8425b7a6f726.png)
 
 ---
 
