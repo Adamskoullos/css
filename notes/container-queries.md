@@ -22,3 +22,17 @@ Add `container-name` so the container canbe grabbed for queries with `@conatiner
 ```
 
 ### Container Units
+
+When using `inline-size` we have access to container width units:
+
+- **cqw** > 50cqw = 50% width of container
+- **cqi** > `i` stands for inline-size and is dynamic depending on the container width. This is nice for dynamic font size depending on contaner width.
+  The below example dynamically sets the font size to `10cqi`....dependant on the container. `clamp` is also used to set min and max sizes:
+
+Child element:
+
+```css
+.title {
+  font-size: clamp(2.5rem, 10cqi, 5 rem); /* clamp: min, target, max */
+}
+```
