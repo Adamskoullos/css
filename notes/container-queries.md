@@ -36,3 +36,5 @@ Child element:
   font-size: clamp(2.5rem, 10cqi, 5 rem); /* clamp: min, target, max */
 }
 ```
+
+> Note: **cqi** works well for setting dynamic `padding`, `margin` and `gaps` etc..
