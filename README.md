@@ -4,5 +4,6 @@
 - [Powerful Layout Patterns](https://github.com/Adamskoullos/css/blob/main/notes/layout-patterns.md)
 - [Grid-Template-Areas workflow](https://github.com/Adamskoullos/css/blob/main/notes/grid-area-setup.md)
 - [Container Queries](https://github.com/Adamskoullos/css/blob/main/notes/container-queries.md)
+- [Pseudo Classes](https://github.com/Adamskoullos/css/blob/main/notes/is-where-has-pseudo-classes.md)
 
 ---
