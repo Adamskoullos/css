@@ -24,7 +24,7 @@ header :is(.title) {
 
 `is` and `where` are used in the same way however the `specificity` is treated differently.
 
-The highest rank item within `is` is included in the spcificity and in `where` the item they are not included:
+The highest rank item within `is` is included in the spcificity and in `where` the items are not included:
 
 ```css
 :is(header, main) h2 {
